@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: booking.tests.service.MotorbikeServiceTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.212 s -- in booking.tests.service.MotorbikeServiceTest
