@@ -132,7 +132,7 @@ This project demonstrates:
 
 ## 📜 License
 
-MIT License © 2025 
+MIT License © 2025 https://github.com/Vinhhtien/ProjectRideNow_Ai_For_SE
 
 > Free for educational and academic use.  
 > Attribution required for reuse or modification.
